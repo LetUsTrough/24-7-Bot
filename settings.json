@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFKBot",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Pepis323.aternos.me",
     "port": 17722,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
